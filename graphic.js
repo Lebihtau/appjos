@@ -8,19 +8,19 @@ var key =
 //punctuation or numbers in your column name
 //"title" is the column name you want to appear in the published table
 var columns = [{
-  "data": "name",
-  "title": "APP NAME"
+  "data": "Nama",
+  "title": "NAMA SEKOLAH"
 }, {
-  "data": "category",
-  "title": "Category"
+  "data": "Alamat",
+  "title": "ALAMAT"
 }, 
    {
-  "data": "os",
-  "title": "OS"
+  "data": "Website",
+  "title": "WEBSITE"
 },
    {
-  "data": "size",
-  "title": "SIZE"
+  "data": "Contact",
+  "title": "CONTACT"
 }];
 
 $(document).ready(function() {
